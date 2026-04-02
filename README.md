@@ -1,19 +1,24 @@
-<div align="center">
-
 ### Hi there 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reserver7&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reserver7&layout=compact&theme=radical&hide_border=true)
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=reserver7&show_icons=true&theme=radical&cache_seconds=86400"
+    alt="reserver7 GitHub stats"
+    height="165"
+  />
+</p>
 
-</div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freserver7%2Freserver7&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
----
+<!--
+**reserver7/reserver7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### Tech Stack
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-
-### Contact
-- Email: your-email@example.com
-- Blog: https://your-blog-url
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
